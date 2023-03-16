@@ -1,6 +1,6 @@
 # spring-boot-h2db-hibernate
 
-Goodreads Application Clone:
+**Goodreads Application Clone**
 
 This application is a clone of the popular book review website Goodreads. It is a RESTful API that allows users to
 perform CRUD (Create, Read, Update, Delete) operations on books.
