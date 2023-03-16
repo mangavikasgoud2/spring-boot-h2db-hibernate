@@ -18,7 +18,13 @@ public class Book {
     private String imageUrl;
 
     public Book() {}
-
+    
+    public Book(int id, String name, String imageUrl) {
+        this.id = id;
+        this.name = name;
+        this.imageUrl = imageUrl;
+    }
+    
     public int getId() {
         return id;
     }
